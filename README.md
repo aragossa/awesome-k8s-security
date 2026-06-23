@@ -201,6 +201,8 @@ rakkess - https://github.com/corneliusweig/rakkess
 
 kubectl-who-can - https://github.com/aquasecurity/kubectl-who-can
 
+Zero-code log sanitization sidecar - https://github.com/pii-shield/pii-shield
+
 ### Trainings
 
 Secure Kubernetes - https://securekubernetes.com/
